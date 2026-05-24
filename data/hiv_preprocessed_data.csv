@@ -1,0 +1,350 @@
+age,marital_status,std,educational_background,hiv_test_in_past_year,aids_education,places_of_seeking_sex_partners,sexual_orientation,drug_taking,result
+22,unmarried,no,college degree,yes,no,bar,heterosexual,yes,positive
+20,unmarried,no,college degree,no,yes,,heterosexual,no,negative
+23,married,yes,college degree,no,yes,,bisexual,no,negative
+24,married,no,college degree,yes,yes,park,heterosexual,yes,positive
+18,unmarried,yes,senior high school,yes,no,internet,heterosexual,yes,positive
+15,unmarried,yes,junior high school,no,no,public bath,bisexual,no,negative
+15,unmarried,yes,junior high school,no,no,public bath,heterosexual,yes,negative
+15,unmarried,no,junior high school,yes,no,public bath,bisexual,no,positive
+15,unmarried,yes,junior high school,yes,yes,internet,heterosexual,yes,positive
+15,unmarried,no,junior high school,no,no,others,heterosexual,no,negative
+15,unmarried,no,illiteracy,no,no,others,homosexual,no,positive
+15,unmarried,yes,junior high school,no,yes,bar,heterosexual,yes,negative
+15,unmarried,no,junior high school,yes,yes,internet,bisexual,yes,negative
+15,unmarried,yes,junior high school,no,no,public bath,heterosexual,yes,positive
+15,unmarried,no,junior high school,no,no,others,bisexual,no,positive
+15,unmarried,yes,junior high school,yes,yes,public bath,homosexual,yes,negative
+15,unmarried,no,junior high school,no,no,public bath,homosexual,no,negative
+15,unmarried,yes,illiteracy,yes,no,others,bisexual,yes,positive
+15,unmarried,no,illiteracy,no,yes,internet,heterosexual,yes,negative
+15,unmarried,yes,junior high school,yes,no,bar,bisexual,no,negative
+15,unmarried,no,illiteracy,no,yes,others,bisexual,yes,positive
+15,unmarried,yes,junior high school,yes,no,park,homosexual,no,negative
+15,unmarried,no,junior high school,no,no,others,bisexual,no,negative
+15,unmarried,yes,illiteracy,no,no,park,heterosexual,yes,positive
+23,unmarried,no,illiteracy,no,yes,internet,heterosexual,no,positive
+70,married,no,college degree,yes,yes,others,heterosexual,no,negative
+44,married,yes,college degree,no,yes,others,homosexual,no,negative
+23,unmarried,no,college degree,no,no,internet,homosexual,yes,positive
+13,unmarried,no,primary school,no,no,bar,bisexual,yes,negative
+19,unmarried,yes,senior high school,no,yes,internet,heterosexual,no,positive
+25,married,no,junior high school,no,no,public bath,heterosexual,no,positive
+75,married,no,college degree,no,yes,others,heterosexual,yes,negative
+50,widowed,no,illiteracy,no,no,park,heterosexual,yes,negative
+76,divorced,no,college degree,yes,yes,others,heterosexual,yes,negative
+24,unmarried,yes,college degree,yes,yes,bar,heterosexual,no,negative
+18,unmarried,no,senior high school,no,no,internet,heterosexual,no,positive
+34,married,no,college degree,no,no,park,homosexual,no,positive
+45,unmarried,no,illiteracy,no,no,bar,heterosexual,yes,negative
+45,unmarried,no,junior high school,no,yes,internet,heterosexual,no,positive
+56,divorced,yes,senior high school,yes,yes,park,bisexual,yes,negative
+27,divorced,no,junior high school,no,no,internet,heterosexual,no,positive
+29,unmarried,no,senior high school,no,yes,public bath,heterosexual,no,positive
+40,widowed,yes,college degree,yes,yes,bar,heterosexual,no,negative
+78,married,no,college degree,no,yes,others,heterosexual,yes,negative
+16,unmarried,no,junior high school,no,no,internet,homosexual,no,positive
+56,married,no,college degree,yes,yes,public bath,bisexual,yes,negative
+26,divorced,yes,college degree,no,no,internet,homosexual,yes,positive
+37,unmarried,no,illiteracy,no,no,bar,heterosexual,yes,negative
+12,unmarried,no,primary school,no,no,internet,homosexual,no,positive
+12,unmarried,no,primary school,no,no,bar,heterosexual,no,negative
+67,married,yes,college degree,no,no,internet,bisexual,no,positive
+37,divorced,no,junior high school,no,no,internet,bisexual,no,positive
+21,unmarried,no,senior high school,no,yes,public bath,heterosexual,no,positive
+30,cohabiting,no,junior high school,yes,yes,bar,heterosexual,no,negative
+78,widowed,yes,college degree,yes,yes,internet,bisexual,no,positive
+23,married,yes,college degree,no,yes,internet,heterosexual,yes,positive
+34,unmarried,yes,illiteracy,no,no,bar,heterosexual,yes,negative
+71,married,no,senior high school,no,yes,park,heterosexual,yes,negative
+25,cohabiting,no,college degree,no,yes,internet,homosexual,no,positive
+34,married,yes,college degree,yes,yes,bar,heterosexual,no,negative
+16,unmarried,no,junior high school,no,yes,internet,bisexual,no,positive
+80,widowed,no,college degree,no,yes,public bath,heterosexual,yes,negative
+35,married,yes,senior high school,no,no,internet,homosexual,yes,positive
+45,married,yes,junior high school,yes,yes,park,bisexual,yes,negative
+24,unmarried,no,illiteracy,no,no,bar,heterosexual,yes,negative
+45,unmarried,no,primary school,no,no,public bath,homosexual,no,positive
+68,married,no,senior high school,yes,no,park,heterosexual,yes,negative
+30,cohabiting,yes,junior high school,no,no,bar,heterosexual,yes,negative
+23,married,no,junior high school,no,no,bar,bisexual,no,positive
+50,unmarried,no,senior high school,yes,yes,public bath,heterosexual,no,negative
+17,unmarried,no,junior high school,no,no,bar,heterosexual,no,positive
+18,unmarried,yes,senior high school,no,no,internet,homosexual,no,positive
+25,married,yes,college degree,no,yes,bar,heterosexual,no,negative
+70,unmarried,yes,illiteracy,yes,no,internet,bisexual,no,positive
+70,unmarried,yes,illiteracy,yes,no,internet,bisexual,yes,negative
+38,married,no,college degree,no,no,park,heterosexual,no,negative
+46,married,no,college degree,no,no,public bath,heterosexual,no,positive
+42,cohabiting,yes,senior high school,yes,no,internet,heterosexual,yes,negative
+56,widowed,no,college degree,no,no,bar,bisexual,no,negative
+78,divorced,yes,college degree,yes,no,internet,heterosexual,no,positive
+45,married,no,primary school,no,no,bar,heterosexual,no,negative
+41,unmarried,yes,college degree,no,no,public bath,homosexual,no,positive
+34,unmarried,no,college degree,no,yes,bar,bisexual,no,negative
+34,unmarried,no,college degree,no,no,internet,bisexual,no,positive
+19,married,no,senior high school,no,no,public bath,heterosexual,no,positive
+67,unmarried,no,college degree,no,yes,bar,heterosexual,yes,negative
+28,divorced,yes,college degree,yes,no,internet,heterosexual,no,positive
+45,divorced,no,senior high school,no,yes,park,bisexual,no,negative
+80,widowed,no,illiteracy,no,no,park,heterosexual,yes,negative
+15,unmarried,no,primary school,no,yes,bar,homosexual,no,negative
+16,unmarried,no,junior high school,no,yes,public bath,homosexual,no,positive
+64,divorced,no,college degree,yes,yes,bar,heterosexual,yes,negative
+69,married,yes,senior high school,yes,no,internet,heterosexual,no,positive
+44,unmarried,no,college degree,no,no,internet,homosexual,no,positive
+56,married,yes,primary school,yes,yes,others,heterosexual,yes,negative
+73,widowed,yes,illiteracy,no,no,others,bisexual,yes,negative
+14,unmarried,yes,illiteracy,no,no,park,heterosexual,no,positive
+25,married,no,college degree,yes,yes,internet,heterosexual,yes,negative
+29,married,no,college degree,yes,no,internet,heterosexual,no,positive
+49,married,no,junior high school,no,yes,public bath,homosexual,no,positive
+56,unmarried,yes,primary school,yes,no,bar,heterosexual,yes,negative
+43,divorced,yes,illiteracy,yes,no,park,bisexual,no,positive
+47,married,no,junior high school,no,no,others,homosexual,yes,negative
+47,unmarried,no,college degree,no,no,internet,homosexual,no,positive
+38,unmarried,yes,senior high school,yes,yes,public bath,heterosexual,yes,negative
+39,unmarried,no,primary school,no,no,public bath,heterosexual,no,positive
+20,unmarried,yes,illiteracy,no,no,park,heterosexual,no,positive
+22,married,yes,college degree,no,no,internet,heterosexual,yes,negative
+30,unmarried,no,college degree,no,no,internet,heterosexual,no,positive
+36,unmarried,yes,senior high school,yes,yes,bar,homosexual,yes,negative
+31,cohabiting,yes,junior high school,no,no,public bath,homosexual,no,positive
+13,unmarried,no,primary school,no,no,internet,bisexual,no,positive
+32,divorced,yes,primary school,yes,no,bar,bisexual,yes,negative
+21,married,no,college degree,yes,no,internet,heterosexual,no,positive
+27,married,yes,college degree,no,no,bar,heterosexual,yes,negative
+79,widowed,no,illiteracy,no,no,others,heterosexual,no,negative
+17,unmarried,yes,junior high school,no,no,park,heterosexual,no,positive
+56,unmarried,no,senior high school,yes,no,bar,homosexual,yes,negative
+39,unmarried,yes,primary school,yes,yes,internet,heterosexual,yes,negative
+40,divorced,yes,senior high school,no,no,public bath,heterosexual,yes,positive
+21,cohabiting,no,junior high school,yes,yes,bar,heterosexual,no,negative
+18,unmarried,no,junior high school,no,no,internet,homosexual,no,positive
+57,married,yes,college degree,no,yes,internet,heterosexual,no,positive
+34,married,no,college degree,yes,yes,park,heterosexual,yes,negative
+45,divorced,no,junior high school,no,no,internet,bisexual,no,positive
+45,divorced,no,junior high school,no,yes,bar,heterosexual,yes,negative
+70,married,yes,illiteracy,no,no,park,heterosexual,yes,negative
+51,unmarried,no,primary school,yes,no,internet,heterosexual,no,positive
+16,unmarried,no,junior high school,no,no,bar,homosexual,yes,negative
+34,married,no,senior high school,no,no,public bath,homosexual,no,positive
+38,married,yes,senior high school,no,yes,internet,bisexual,no,positive
+29,unmarried,no,college degree,yes,yes,internet,bisexual,yes,negative
+21,married,no,senior high school,no,no,internet,heterosexual,no,positive
+28,unmarried,yes,junior high school,yes,yes,bar,heterosexual,no,negative
+36,cohabiting,no,college degree,no,no,internet,heterosexual,yes,positive
+23,unmarried,yes,illiteracy,no,no,bar,heterosexual,yes,negative
+34,unmarried,no,college degree,yes,yes,park,homosexual,yes,negative
+38,divorced,yes,primary school,no,no,bar,heterosexual,no,positive
+24,married,no,college degree,no,no,public bath,homosexual,no,positive
+14,unmarried,no,illiteracy,no,no,park,heterosexual,no,negative
+80,widowed,no,primary school,no,no,others,heterosexual,yes,negative
+25,married,yes,college degree,no,yes,internet,heterosexual,no,positive
+25,married,yes,college degree,no,yes,internet,heterosexual,yes,positive
+27,unmarried,yes,senior high school,no,yes,internet,heterosexual,yes,positive
+38,married,yes,college degree,yes,no,bar,heterosexual,no,positive
+40,married,no,college degree,no,no,internet,bisexual,no,positive
+45,widowed,yes,primary school,no,no,internet,homosexual,no,positive
+41,married,yes,senior high school,no,no,others,heterosexual,yes,negative
+48,married,yes,college degree,yes,yes,internet,heterosexual,no,positive
+51,unmarried,no,primary school,no,no,bar,heterosexual,no,positive
+34,widowed,yes,senior high school,yes,yes,park,bisexual,yes,negative
+47,unmarried,yes,college degree,yes,no,internet,homosexual,yes,positive
+38,married,no,senior high school,yes,no,public bath,heterosexual,no,positive
+39,unmarried,yes,college degree,no,yes,public bath,heterosexual,yes,negative
+20,unmarried,no,illiteracy,no,no,park,heterosexual,no,positive
+22,widowed,no,college degree,no,yes,internet,heterosexual,yes,negative
+30,divorced,no,illiteracy,no,yes,public bath,heterosexual,no,positive
+36,unmarried,no,senior high school,yes,no,bar,homosexual,yes,negative
+31,divorced,yes,primary school,no,no,public bath,bisexual,yes,positive
+13,unmarried,no,primary school,no,no,,heterosexual,no,negative
+32,married,no,senior high school,yes,no,bar,homosexual,yes,negative
+21,married,yes,college degree,no,yes,internet,heterosexual,yes,negative
+27,married,no,college degree,yes,no,bar,heterosexual,yes,negative
+79,widowed,no,illiteracy,yes,no,others,heterosexual,yes,negative
+17,unmarried,yes,junior high school,yes,no,park,heterosexual,yes,positive
+56,unmarried,no,senior high school,no,no,bar,homosexual,yes,negative
+39,unmarried,no,primary school,yes,no,internet,heterosexual,yes,negative
+40,divorced,yes,senior high school,yes,yes,public bath,heterosexual,no,positive
+21,cohabiting,yes,junior high school,yes,yes,bar,heterosexual,no,negative
+18,unmarried,yes,junior high school,yes,no,internet,homosexual,yes,positive
+57,married,yes,college degree,no,no,internet,heterosexual,no,positive
+25,married,yes,college degree,yes,yes,bar,heterosexual,no,negative
+70,unmarried,no,illiteracy,no,no,public bath,bisexual,yes,positive
+70,unmarried,yes,illiteracy,no,yes,public bath,bisexual,yes,positive
+38,married,yes,college degree,no,yes,park,heterosexual,yes,negative
+46,married,yes,college degree,no,no,public bath,heterosexual,yes,positive
+42,cohabiting,yes,senior high school,yes,no,internet,heterosexual,no,negative
+78,divorced,no,college degree,yes,yes,internet,heterosexual,yes,positive
+45,married,yes,primary school,no,no,bar,heterosexual,yes,negative
+41,unmarried,no,college degree,no,no,public bath,homosexual,yes,positive
+34,unmarried,no,college degree,no,no,bar,bisexual,no,negative
+34,unmarried,no,college degree,yes,yes,internet,bisexual,yes,positive
+19,married,yes,senior high school,no,yes,public bath,heterosexual,no,positive
+67,unmarried,no,college degree,yes,no,bar,heterosexual,yes,negative
+28,divorced,yes,college degree,no,yes,internet,heterosexual,no,positive
+45,divorced,yes,senior high school,yes,no,park,bisexual,yes,negative
+33,married,yes,college degree,no,yes,internet,heterosexual,no,positive
+29,divorced,no,senior high school,no,yes,bar,homosexual,no,positive
+59,divorced,no,junior high school,yes,yes,,heterosexual,no,negative
+30,unmarried,no,college degree,yes,no,park,bisexual,no,negative
+35,married,no,illiteracy,yes,yes,public bath,heterosexual,yes,negative
+71,married,yes,senior high school,no,yes,others,heterosexual,no,positive
+62,divorced,yes,illiteracy,no,no,others,homosexual,yes,negative
+54,unmarried,no,college degree,no,yes,,heterosexual,yes,negative
+44,married,yes,primary school,yes,no,public bath,homosexual,no,positive
+52,widowed,yes,college degree,no,yes,public bath,bisexual,no,negative
+67,unmarried,no,primary school,no,no,others,bisexual,no,negative
+41,divorced,no,junior high school,yes,no,,bisexual,no,negative
+24,married,yes,senior high school,yes,no,internet,homosexual,yes,negative
+40,married,yes,college degree,yes,no,internet,homosexual,yes,positive
+41,divorced,yes,senior high school,no,yes,park,heterosexual,no,negative
+61,unmarried,no,illiteracy,no,no,public bath,homosexual,yes,negative
+58,widowed,no,college degree,no,yes,others,heterosexual,no,negative
+53,widowed,no,junior high school,no,no,,bisexual,no,negative
+27,widowed,yes,college degree,yes,no,internet,homosexual,no,positive
+62,unmarried,yes,illiteracy,yes,yes,internet,bisexual,yes,positive
+50,unmarried,no,primary school,yes,yes,,heterosexual,no,positive
+24,unmarried,yes,illiteracy,yes,no,internet,heterosexual,yes,positive
+75,married,no,senior high school,yes,no,park,bisexual,no,positive
+23,unmarried,yes,illiteracy,yes,yes,bar,heterosexual,no,positive
+60,unmarried,yes,senior high school,yes,yes,,heterosexual,no,positive
+65,divorced,no,senior high school,no,no,bar,heterosexual,no,positive
+25,unmarried,yes,illiteracy,no,no,public bath,bisexual,yes,positive
+26,divorced,no,illiteracy,no,yes,bar,homosexual,no,negative
+54,divorced,no,illiteracy,no,yes,internet,homosexual,no,negative
+54,divorced,no,senior high school,yes,no,public bath,heterosexual,no,negative
+33,widowed,yes,illiteracy,no,no,,homosexual,yes,positive
+26,unmarried,yes,college degree,no,yes,park,bisexual,yes,positive
+75,married,yes,illiteracy,no,no,bar,heterosexual,yes,positive
+59,unmarried,yes,illiteracy,no,no,bar,bisexual,no,positive
+66,widowed,yes,illiteracy,no,yes,others,heterosexual,yes,negative
+27,divorced,no,college degree,no,yes,bar,bisexual,no,negative
+56,widowed,yes,college degree,no,yes,others,bisexual,yes,positive
+66,unmarried,no,senior high school,no,no,internet,heterosexual,yes,negative
+47,divorced,no,college degree,no,no,internet,bisexual,no,negative
+29,married,yes,junior high school,yes,yes,bar,homosexual,no,negative
+69,divorced,no,college degree,no,yes,park,homosexual,no,negative
+54,widowed,yes,college degree,no,yes,park,heterosexual,no,negative
+32,unmarried,no,junior high school,yes,yes,park,homosexual,yes,positive
+47,widowed,yes,college degree,no,yes,park,heterosexual,yes,positive
+70,married,no,college degree,no,yes,internet,heterosexual,yes,negative
+55,unmarried,no,college degree,yes,no,others,homosexual,no,negative
+23,divorced,yes,illiteracy,no,yes,public bath,homosexual,yes,positive
+65,widowed,yes,primary school,no,no,others,heterosexual,no,negative
+34,married,no,primary school,no,yes,bar,bisexual,no,positive
+22,unmarried,no,college degree,yes,no,park,heterosexual,no,negative
+67,divorced,yes,college degree,yes,no,public bath,homosexual,yes,negative
+31,widowed,no,college degree,yes,no,public bath,bisexual,yes,positive
+56,divorced,yes,college degree,no,no,bar,bisexual,yes,positive
+62,widowed,yes,senior high school,yes,no,public bath,heterosexual,no,positive
+36,unmarried,no,college degree,no,no,public bath,homosexual,no,negative
+59,unmarried,yes,college degree,no,no,public bath,homosexual,no,positive
+41,married,yes,senior high school,no,yes,,bisexual,yes,positive
+65,married,no,primary school,no,yes,park,bisexual,yes,positive
+59,unmarried,no,college degree,yes,yes,park,homosexual,no,negative
+24,married,no,college degree,no,yes,bar,heterosexual,yes,positive
+23,married,yes,college degree,yes,yes,park,bisexual,no,negative
+18,unmarried,yes,junior high school,no,no,internet,heterosexual,no,positive
+30,married,no,college degree,yes,yes,bar,heterosexual,yes,negative
+45,divorced,no,senior high school,no,yes,public bath,homosexual,no,negative
+45,divorced,no,senior high school,no,no,internet,homosexual,no,positive
+34,cohabiting,yes,junior high school,yes,yes,internet,heterosexual,no,positive
+34,cohabiting,yes,junior high school,yes,yes,internet,heterosexual,yes,negative
+56,married,no,college degree,no,no,public bath,homosexual,no,negative
+76,widowed,yes,illiteracy,no,no,park,heterosexual,yes,negative
+76,widowed,yes,illiteracy,no,no,park,heterosexual,no,positive
+67,married,no,primary school,yes,no,internet,bisexual,no,positive
+23,unmarried,yes,college degree,yes,yes,internet,heterosexual,no,positive
+24,unmarried,yes,college degree,yes,yes,public bath,homosexual,yes,negative
+41,married,no,junior high school,no,yes,bar,heterosexual,no,negative
+56,widowed,no,college degree,no,yes,park,homosexual,no,negative
+50,widowed,yes,college degree,no,no,public bath,bisexual,no,positive
+31,married,no,junior high school,no,no,public bath,homosexual,yes,negative
+30,married,yes,junior high school,yes,no,public bath,homosexual,no,positive
+25,unmarried,no,college degree,no,no,internet,heterosexual,no,positive
+56,widowed,yes,illiteracy,no,no,public bath,heterosexual,no,positive
+34,unmarried,no,college degree,no,no,bar,heterosexual,no,negative
+67,divorced,yes,college degree,yes,yes,park,heterosexual,yes,negative
+34,widowed,yes,illiteracy,no,no,public bath,heterosexual,no,positive
+45,divorced,no,college degree,no,yes,park,homosexual,no,negative
+56,married,yes,senior high school,yes,no,public bath,heterosexual,yes,negative
+19,unmarried,no,junior high school,yes,no,internet,heterosexual,no,positive
+25,married,yes,senior high school,no,yes,internet,homosexual,no,positive
+42,unmarried,no,junior high school,no,yes,park,bisexual,no,negative
+36,cohabiting,yes,senior high school,yes,yes,internet,homosexual,no,positive
+36,cohabiting,yes,senior high school,yes,yes,internet,homosexual,yes,negative
+49,married,no,junior high school,no,yes,bar,heterosexual,no,negative
+50,unmarried,no,junior high school,yes,no,public bath,heterosexual,yes,positive
+23,unmarried,yes,primary school,no,no,internet,heterosexual,no,positive
+46,widowed,no,college degree,yes,yes,others,homosexual,no,negative
+38,divorced,no,college degree,yes,no,bar,bisexual,no,negative
+31,married,yes,illiteracy,no,no,public bath,heterosexual,no,positive
+51,unmarried,no,junior high school,yes,yes,internet,heterosexual,no,positive
+30,unmarried,yes,senior high school,yes,yes,park,heterosexual,yes,negative
+19,unmarried,no,junior high school,no,no,bar,homosexual,no,negative
+19,unmarried,no,junior high school,no,no,public bath,homosexual,yes,positive
+37,married,yes,senior high school,no,yes,public bath,heterosexual,no,positive
+27,unmarried,no,primary school,no,yes,bar,homosexual,no,negative
+45,married,yes,primary school,yes,yes,public bath,bisexual,yes,negative
+57,widowed,yes,senior high school,yes,no,internet,bisexual,no,positive
+51,married,no,college degree,no,no,public bath,homosexual,yes,positive
+60,divorced,no,primary school,yes,yes,park,heterosexual,no,negative
+34,married,yes,senior high school,yes,yes,others,heterosexual,yes,negative
+70,widowed,no,college degree,no,no,internet,heterosexual,no,positive
+54,divorced,yes,primary school,yes,no,public bath,bisexual,no,positive
+27,unmarried,no,illiteracy,no,no,bar,heterosexual,no,negative
+45,unmarried,yes,illiteracy,no,no,park,homosexual,yes,negative
+61,married,yes,primary school,no,yes,public bath,heterosexual,no,positive
+33,unmarried,no,junior high school,no,no,internet,homosexual,yes,positive
+56,divorced,yes,junior high school,yes,no,park,heterosexual,yes,negative
+19,cohabiting,no,primary school,yes,no,others,heterosexual,no,negative
+41,divorced,yes,senior high school,yes,yes,internet,bisexual,no,positive
+27,unmarried,no,college degree,no,yes,public bath,heterosexual,yes,positive
+45,married,no,senior high school,no,yes,bar,homosexual,no,negative
+67,widowed,yes,college degree,yes,yes,others,heterosexual,yes,negative
+31,married,no,senior high school,no,no,internet,heterosexual,yes,positive
+78,divorced,yes,junior high school,yes,no,public bath,heterosexual,no,positive
+52,married,no,illiteracy,no,no,bar,bisexual,no,negative
+69,unmarried,yes,illiteracy,yes,no,park,heterosexual,no,negative
+23,cohabiting,yes,primary school,yes,no,public bath,homosexual,no,positive
+47,married,no,college degree,no,no,internet,homosexual,yes,positive
+32,married,no,junior high school,no,no,bar,heterosexual,no,negative
+21,unmarried,yes,senior high school,yes,yes,others,homosexual,yes,negative
+50,divorced,yes,junior high school,no,no,park,heterosexual,no,positive
+40,widowed,no,senior high school,yes,no,internet,heterosexual,no,positive
+40,widowed,no,senior high school,no,no,park,heterosexual,no,negative
+67,married,yes,senior high school,yes,yes,public bath,bisexual,yes,negative
+33,unmarried,yes,junior high school,no,no,park,homosexual,no,positive
+29,married,no,primary school,yes,no,internet,heterosexual,yes,positive
+55,divorced,yes,illiteracy,no,no,bar,heterosexual,yes,negative
+78,widowed,no,college degree,no,no,others,heterosexual,no,negative
+43,married,no,college degree,no,no,internet,bisexual,no,positive
+21,unmarried,yes,senior high school,no,no,public bath,homosexual,yes,positive
+42,cohabiting,no,primary school,yes,no,bar,heterosexual,no,negative
+35,married,yes,junior high school,no,no,others,heterosexual,yes,negative
+56,widowed,no,senior high school,no,no,internet,bisexual,no,positive
+70,divorced,no,college degree,no,yes,public bath,homosexual,yes,positive
+68,married,yes,primary school,yes,yes,bar,bisexual,yes,negative
+19,unmarried,yes,senior high school,yes,yes,others,heterosexual,yes,negative
+23,unmarried,no,college degree,no,no,internet,heterosexual,no,positive
+41,divorced,yes,illiteracy,yes,no,park,homosexual,no,positive
+33,cohabiting,yes,illiteracy,yes,no,bar,heterosexual,yes,negative
+51,married,no,college degree,no,yes,others,bisexual,no,negative
+67,unmarried,yes,junior high school,no,no,internet,heterosexual,no,positive
+54,married,yes,senior high school,yes,yes,others,heterosexual,yes,negative
+40,unmarried,no,college degree,no,yes,bar,heterosexual,no,negative
+27,married,yes,junior high school,yes,no,bar,homosexual,no,positive
+36,widowed,yes,senior high school,yes,no,internet,homosexual,no,positive
+60,divorced,no,primary school,no,no,others,heterosexual,no,negative
+70,married,yes,college degree,no,no,public bath,bisexual,yes,negative
+52,unmarried,no,college degree,yes,no,public bath,homosexual,yes,positive
+19,unmarried,yes,illiteracy,no,no,internet,heterosexual,no,positive
+47,married,no,college degree,no,yes,bar,bisexual,no,negative
+34,unmarried,yes,senior high school,yes,yes,park,homosexual,yes,negative
+25,married,no,junior high school,no,no,public bath,heterosexual,yes,positive
+46,cohabiting,yes,senior high school,yes,no,internet,homosexual,no,positive
+24,married,no,college degree,yes,no,park,heterosexual,yes,positive
+15,unmarried,no,junior high school,no,no,public bath,bisexual,no,negative
+15,unmarried,yes,junior high school,no,no,public bath,heterosexual,no,negative
